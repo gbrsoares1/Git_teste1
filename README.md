@@ -1,2 +1,5 @@
-# Git de teste para estudo v1.0.0
-Repositório teste AWS
+# Git de teste para estudo
+
+Testando funcionalidades Git
+
+## Repositório teste AWS
